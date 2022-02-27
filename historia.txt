@@ -2,4 +2,4 @@ este es un archivo de mi historia naci en venezuela y tengo 32 años
 
 en camara parece alto pero en verdad no es tan alto
 
-hoy quiero programar
+hoy quiero programar en js
