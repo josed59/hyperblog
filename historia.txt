@@ -6,4 +6,6 @@ en camara parece alto pero en verdad no es tan alto
 
 Master 1
 
+MAster 2
+
 hoy quiero programar en js y html
