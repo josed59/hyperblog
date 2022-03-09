@@ -9,4 +9,6 @@ aca vamos aprobar puntos
 -  y el tercero 
 Agradecimiento a todos los que me han apoyado
 
+tambien agradesco a Vero
+
 aca puedo colocar **Negritas**
